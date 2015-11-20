@@ -1,0 +1,27 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 OK <April, type, month>\
+OK <August, type, month>\
+OK <Adobe Illustrator, type, computer program>\
+OK <Australia, type, continent>\
+OK <Apple, type, fruit>\
+OK <Algebra, type, part of mathematics>\
+OK <Angola, type, country>\
+OK <Argentina, type, country>\
+OK <Austria, type, country>\
+OK <Armenia, type, country>\
+OK <Boot, type, footwear>\
+OK <Belgium, type, country>\
+OK <Brazil, type, country>\
+OK <Computer, type, machine>\
+OK <Continent, type, area>\
+OK <Colchester, type, town>\
+OK <Creative network, type, group>\
+OK <Census of Marine Life, type, survey>\
+OK <Conceptual metaphor, type, metaphor>\
+OK <Comedy, type, play>\
+}

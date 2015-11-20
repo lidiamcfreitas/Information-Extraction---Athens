@@ -1,0 +1,137 @@
+<Addis Ababa, isCapitalOf, Ethiopia>
+<Palikir, isCapitalOf, Federated States of Micronesia>
+<Dakar, isCapitalOf, Senegal>
+<Nas, isCapitalOf, U.S. state>
+<Rasht, isCapitalOf, Iran>
+<Mariehamm, isCapitalOf, Island>
+<August, isCapitalOf, U.S. state>
+<Schwerin, isCapitalOf, Mecklenburg-Western Pomerania>
+<Copenhagen, isCapitalOf, Denmark>
+<Riyadh, isCapitalOf, Saudi Arabia>
+<Belgrade, isCapitalOf, Serbia>
+<Vientiane, isCapitalOf, Laos>
+<Port Vila, isCapitalOf, Vanuatu>
+<São Tomé, isCapitalOf, São Tomé and Príncipe>
+<Bat, isCapitalOf, U.S. state>
+<Bandar Seri Begawan, isCapitalOf, Brunei>
+<Dove, isCapitalOf, U.S. state>
+<Dodoma, isCapitalOf, Tanzania>
+<Valletta, isCapitalOf, Malta>
+<Doha, isCapitalOf, Qatar>
+<Spring, isCapitalOf, U.S. state>
+<Moscow, isCapitalOf, Russia>
+<Stepanakert, isCapitalOf, Nagorno-Karabakh>
+<Brazzaville, isCapitalOf, Republic of the Congo>
+<Oaxaca de Juárez, isCapitalOf, Oaxaca>
+<Chinese, isCapitalOf, Republic of China>
+<Niamey, isCapitalOf, Africa>
+<Havana, isCapitalOf, Cuba>
+<Port Louis, isCapitalOf, Mauritius>
+<Bangalore, isCapitalOf, Indian>
+<Sukhumi, isCapitalOf, Abkhazia>
+<Simferopol, isCapitalOf, Crime>
+<Rabat, isCapitalOf, Morocco>
+<Riga, isCapitalOf, Europe>
+<Bangalore, isCapitalOf, Karnataka>
+<City, isCapitalOf, American>
+<Rennes, isCapitalOf, Brittany>
+<Tiraspol, isCapitalOf, Transnistria>
+<Accra, isCapitalOf, Ghana>
+<Dhaka, isCapitalOf, Bangladesh>
+<Prince, isCapitalOf, Haiti>
+<Car, isCapitalOf, Monaco>
+<Denpasar, isCapitalOf, Bali>
+<Cienfuegos, isCapitalOf, Cienfuegos province>
+<Matiari, isCapitalOf, District>
+<Antananarivo, isCapitalOf, Madagascar>
+<Helen, isCapitalOf, U.S. state>
+<Asmara, isCapitalOf, Eritrea>
+<Municipality, isCapitalOf, Nova Scotia>
+<Pier, isCapitalOf, South Dakota>
+<Sarajevo, isCapitalOf, Bosnia and Herzegovina>
+<Paramaribo, isCapitalOf, Suriname>
+<Lviv, isCapitalOf, Lviv>
+<Münster-Geschinen, isCapitalOf, Valais>
+<Yaoundé, isCapitalOf, Republic>
+<Sari, isCapitalOf, Mazandaran>
+<June, isCapitalOf, U.S. state>
+<Sydney, isCapitalOf, New South Wales>
+<Suceava, isCapitalOf, Suceava County>
+<City, isCapitalOf, Luxembourg>
+<Bratislava, isCapitalOf, Slovakia>
+<Tunis, isCapitalOf, Tunisia>
+<Koror, isCapitalOf, Palau>
+<Olympia, isCapitalOf, Washington>
+<Vex, isCapitalOf, Valais>
+<Maseru, isCapitalOf, Lesotho>
+<Romania, isCapitalOf, Botoşani County>
+<Delhi, isCapitalOf, Republic>
+<Iquitos, isCapitalOf, Loreto Region>
+<Visp, isCapitalOf, Visp>
+<Quito, isCapitalOf, Ecuador>
+<Oslo, isCapitalOf, Norway>
+<Bucharest, isCapitalOf, Romania>
+<Thimphu, isCapitalOf, Bhutan>
+<Helsinki, isCapitalOf, Finland>
+<Budapest, isCapitalOf, Hungary>
+<Stans, isCapitalOf, Nidwalden>
+<Mendoza, isCapitalOf, Mendoza Province>
+<Ankara, isCapitalOf, Turkey>
+<Tskhinvali, isCapitalOf, South Ossetia>
+<Saint, isCapitalOf, U.S. state>
+<Suva, isCapitalOf, Fiji>
+<Andorra la Vella, isCapitalOf, Andorra>
+<Tashkent, isCapitalOf, Uzbekistan>
+<Truro, isCapitalOf, Cornwall>
+<Berlin, isCapitalOf, Germany>
+<Sapporo, isCapitalOf, Hokkaido>
+<Bujumbura, isCapitalOf, Burundi>
+<Larissa, isCapitalOf, Greece>
+<Dublin, isCapitalOf, the Republic of Ireland>
+<Jacobabad, isCapitalOf, Jacobabad District>
+<Chennai, isCapitalOf, Indian>
+<Bismarck, isCapitalOf, U.S. state>
+<Athens, isCapitalOf, Greece>
+<Sargodha, isCapitalOf, Sargodha District>
+<Vaduz, isCapitalOf, Liechtenstein>
+<Paris, isCapitalOf, France>
+<Raron, isCapitalOf, Raron>
+<Kuala Lumpur, isCapitalOf, Malaysia>
+<Majuro, isCapitalOf, Marshall Islands>
+<Kiev, isCapitalOf, Ukraine>
+<Bangui, isCapitalOf, Central African Republic>
+<Rome, isCapitalOf, Italy>
+<Manama, isCapitalOf, Bahrain>
+<Kinshasa, isCapitalOf, Democratic Republic of the Congo>
+<Bishkek, isCapitalOf, Kyrgyzstan>
+<Malabo, isCapitalOf, Equatorial Guinea>
+<Mbabane, isCapitalOf, Africa>
+<Malé, isCapitalOf, Maldives>
+<Astana, isCapitalOf, Kazakhstan>
+<Bissau, isCapitalOf, Guinea-Bissau>
+<Libreville, isCapitalOf, Gabon>
+<Lomé, isCapitalOf, Togo>
+<Lisbon, isCapitalOf, Portugal>
+<Tirana, isCapitalOf, Republic>
+<Canberra, isCapitalOf, Australia>
+<Gaborone, isCapitalOf, Botswana>
+<San Miguel de Tucumán, isCapitalOf, Tucumán Province>
+<Jamshoro, isCapitalOf, Jamshoro District>
+<City, isCapitalOf, U.S. state>
+<Caracas, isCapitalOf, Venezuela>
+<Manila, isCapitalOf, Philippines>
+<Bangkok, isCapitalOf, Asian>
+<Lilongwe, isCapitalOf, Africa>
+<Kathmandu, isCapitalOf, Nepal>
+<Dublin, isCapitalOf, Republic of Ireland>
+<Reykjavík, isCapitalOf, Iceland>
+<Switzerland, isCapitalOf, Leuk>
+<Kigali, isCapitalOf, Rwanda>
+<Stockholm, isCapitalOf, Sweden>
+<Roseau, isCapitalOf, Caribbean>
+<Frauenfeld, isCapitalOf, Thurgau>
+<Ranchi, isCapitalOf, Jharkhand>
+<Nuku'alofa, isCapitalOf, Tonga>
+<Freetown, isCapitalOf, Africa>
+<Algiers, isCapitalOf, Algeria>
+<Trento, isCapitalOf, U.S. state>

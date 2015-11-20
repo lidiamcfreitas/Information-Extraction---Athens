@@ -1,0 +1,876 @@
+<Albi, isCapitalOf, France>
+<Rüttenen, isCapitalOf, Switzerland>
+<Moundou, isCapitalOf, Logone Occidental>
+<Pet, isCapitalOf, U.S. state>
+<Cevio, isCapitalOf, Ticino>
+<Nas, isCapitalOf, U.S. state>
+<Piacenza, isCapitalOf, Emilia-Romagna>
+<Unterägeri, isCapitalOf, Zug>
+<Parma, isCapitalOf, Emilia-Romagna>
+<Hilfikon, isCapitalOf, Aargau>
+<John, isCapitalOf, Newfoundland and Labrador>
+<Cusco, isCapitalOf, Inca Empire>
+<Büttikon, isCapitalOf, Aargau>
+<Bielefeld, isCapitalOf, Germany>
+<Neuss, isCapitalOf, Germany>
+<Grind, isCapitalOf, Switzerland>
+<Port Vila, isCapitalOf, Vanuatu>
+<Thessaloniki, isCapitalOf, Macedonia>
+<Hellikon, isCapitalOf, Aargau>
+<Cresciano, isCapitalOf, Ticino>
+<Province, isCapitalOf, Kohat District>
+<Multan, isCapitalOf, Pun>
+<Weimar, isCapitalOf, Germany>
+<Baghdad, isCapitalOf, Abbasid Empire>
+<Latina, isCapitalOf, Lazio>
+<Birmingham, isCapitalOf, Alabama>
+<Istanbul, isCapitalOf, Turkey>
+<Basel, isCapitalOf, Basel>
+<Cuxhaven, isCapitalOf, Cuxhaven>
+<Alvaneu, isCapitalOf, Graubünden>
+<Bregenz, isCapitalOf, Austria>
+<Leibstadt, isCapitalOf, Aargau>
+<Waterloo, isCapitalOf, Saint Helena>
+<This, isCapitalOf, East>
+<Hergiswil, isCapitalOf, Nidwalden>
+<Portsmouth, isCapitalOf, England>
+<Faido, isCapitalOf, Ticino>
+<Skopje, isCapitalOf, Europe>
+<Rennes, isCapitalOf, Brittany>
+<Tiraspol, isCapitalOf, Transnistria>
+<Międzyrzec Podlaski, isCapitalOf, Poland>
+<Gela, isCapitalOf, Sicily>
+<Car, isCapitalOf, Monaco>
+<Bischofszell, isCapitalOf, Thurgau>
+<Ittenthal, isCapitalOf, Aargau>
+<Malvaglia, isCapitalOf, Ticino>
+<Conthey, isCapitalOf, Conthey>
+<Reşiţa, isCapitalOf, Romania>
+<Merishausen, isCapitalOf, Schaffhausen>
+<City, isCapitalOf, Quebec>
+<Reutlingen, isCapitalOf, German>
+<Hünenberg, isCapitalOf, Zug>
+<Pun, isCapitalOf, Faisalabad District>
+<Athens, isCapitalOf, American>
+<Tawaret, isCapitalOf, Egypt>
+<Münster-Geschinen, isCapitalOf, Valais>
+<Kaiseraugst, isCapitalOf, Aargau>
+<Suceava, isCapitalOf, Suceava County>
+<Cagliari, isCapitalOf, Sardinia>
+<Weinfelden, isCapitalOf, Thurgau>
+<Schmiedrued, isCapitalOf, Aargau>
+<Koror, isCapitalOf, Palau>
+<Nanjing, isCapitalOf, China>
+<City, isCapitalOf, United States>
+<Andorra, isCapitalOf, Sardinia>
+<Niederbuchsiten, isCapitalOf, Switzerland>
+<Ankara, isCapitalOf, Turkey>
+<Funafuti, isCapitalOf, Tuvalu>
+<John, isCapitalOf, American>
+<Ioannina, isCapitalOf, Ioannina>
+<Wölflinswil, isCapitalOf, Aargau>
+<Le Havre, isCapitalOf, France>
+<Armorica, isCapitalOf, Gaul>
+<Sarmenstorf, isCapitalOf, Aargau>
+<John, isCapitalOf, Antigua>
+<Almaty, isCapitalOf, Kazakhstan>
+<Bordeaux, isCapitalOf, France>
+<Manacor, isCapitalOf, Major>
+<Dublin, isCapitalOf, the Republic of Ireland>
+<Murcia, isCapitalOf, Murcia>
+<Empire, isCapitalOf, Mauritania>
+<Agrigento, isCapitalOf, Sicily>
+<Prefecture, isCapitalOf, Honshū>
+<Regensburg, isCapitalOf, Germany>
+<Pun, isCapitalOf, Dera Ghazi Khan District>
+<Raron, isCapitalOf, Raron>
+<Luterbach, isCapitalOf, Switzerland>
+<Lostorf, isCapitalOf, Switzerland>
+<Deventer, isCapitalOf, Netherlands>
+<Bangui, isCapitalOf, Central African Republic>
+<Volterra, isCapitalOf, Tuscany>
+<Tor, isCapitalOf, Canada>
+<Province, isCapitalOf, Abbottabad District>
+<Mbabane, isCapitalOf, Africa>
+<Malé, isCapitalOf, Maldives>
+<Rheinstetten, isCapitalOf, Germany>
+<Jamshoro, isCapitalOf, Jamshoro District>
+<Bochum, isCapitalOf, North Rhine-Westphalia>
+<Dublin, isCapitalOf, Republic of Ireland>
+<Switzerland, isCapitalOf, Leuk>
+<Pardubice, isCapitalOf, Czech Republic>
+<Kigali, isCapitalOf, Rwanda>
+<Belfast, isCapitalOf, Northern Ireland>
+<Aeschi, isCapitalOf, Switzerland>
+<Carrara, isCapitalOf, Massa>
+<Herbetswil, isCapitalOf, Switzerland>
+<Ramsen, isCapitalOf, Schaffhausen>
+<Palikir, isCapitalOf, Federated States of Micronesia>
+<Bellinzona, isCapitalOf, Canton>
+<Hofstetten-Flüh, isCapitalOf, Switzerland>
+<Salzgitter, isCapitalOf, German>
+<Dornach, isCapitalOf, Switzerland>
+<Honiara, isCapitalOf, Solomon Islands>
+<Allmendingen bei Bern, isCapitalOf, Switzerland>
+<Ozámiz, isCapitalOf, Philippines>
+<Tägerig, isCapitalOf, Aargau>
+<Brugg, isCapitalOf, Aargau>
+<Beggingen, isCapitalOf, Schaffhausen>
+<Schwerin, isCapitalOf, Mecklenburg-Western Pomerania>
+<Riyadh, isCapitalOf, Saudi Arabia>
+<Maceió, isCapitalOf, Alagoas>
+<Pommera, isCapitalOf, Switzerland>
+<Würzburg, isCapitalOf, German>
+<Bandar Seri Begawan, isCapitalOf, Brunei>
+<River, isCapitalOf, Pakistan>
+<Ghirone, isCapitalOf, Ticino>
+<Somerton, isCapitalOf, Kingdom>
+<Kreuzlingen, isCapitalOf, Thurgau>
+<Alcalá de Henares, isCapitalOf, Community>
+<Bedretto, isCapitalOf, Ticino>
+<Moscow, isCapitalOf, Russia>
+<Wuppertal, isCapitalOf, Germany>
+<Velikiy Novgorod, isCapitalOf, Europe>
+<Brazzaville, isCapitalOf, Republic of the Congo>
+<Constantinople, isCapitalOf, Roman Empire>
+<Etruscan civilization, isCapitalOf, Italy>
+<Bangalore, isCapitalOf, Indian>
+<Celt, isCapitalOf, France>
+<Eggerberg, isCapitalOf, Valais>
+<Simferopol, isCapitalOf, Crime>
+<Stein am Rhein, isCapitalOf, Schaffhausen>
+<Soubey, isCapitalOf, Switzerland>
+<Korba, isCapitalOf, Indian>
+<Ohio, isCapitalOf, Ohio>
+<Taranto, isCapitalOf, Apulia>
+<Tao, isCapitalOf, Taiwan>
+<Gänsbrunnen, isCapitalOf, Switzerland>
+<Le Noirmont, isCapitalOf, Switzerland>
+<Wit, isCapitalOf, Aargau>
+<Mallorca, isCapitalOf, Mallorca>
+<Province, isCapitalOf, Charsadda District>
+<Rule, isCapitalOf, Sindh>
+<London, isCapitalOf, England>
+<Tobel-Tägerschen, isCapitalOf, Thurgau>
+<Jordan, isCapitalOf, Salt>
+<Steckborn, isCapitalOf, Thurgau>
+<Avignon, isCapitalOf, France>
+<Mund, isCapitalOf, Valais>
+<Bellach, isCapitalOf, Switzerland>
+<Jonen, isCapitalOf, Aargau>
+<Albi, isCapitalOf, Switzerland>
+<Gießen, isCapitalOf, German>
+<Municipality, isCapitalOf, Nova Scotia>
+<Kilauea, isCapitalOf, Hawaii>
+<Gentilino, isCapitalOf, Ticino>
+<Dong Zhuo, isCapitalOf, China>
+<Salvador, isCapitalOf, Brazil>
+<Naples, isCapitalOf, Campania>
+<Haiphong, isCapitalOf, Vietnam>
+<Linescio, isCapitalOf, Ticino>
+<Florence, isCapitalOf, Tuscany>
+<Yaoundé, isCapitalOf, Republic>
+<Suwałki, isCapitalOf, Suwałki>
+<Les Enfers, isCapitalOf, Switzerland>
+<Turin, isCapitalOf, Piedmont>
+<Muri, isCapitalOf, Aargau>
+<Lemur, isCapitalOf, Madagascar>
+<Delhi, isCapitalOf, Republic>
+<Pun, isCapitalOf, Bhakkar District>
+<Bilbao, isCapitalOf, Basque Country>
+<Braunau am Inn, isCapitalOf, Austria>
+<Thimphu, isCapitalOf, Bhutan>
+<Recklinghausen, isCapitalOf, German>
+<Budapest, isCapitalOf, Hungary>
+<Stans, isCapitalOf, Nidwalden>
+<Birmingham, isCapitalOf, American>
+<Dadu, isCapitalOf, Dadu District>
+<Eggenwil, isCapitalOf, Aargau>
+<Hermetschwil-Staffeln, isCapitalOf, Aargau>
+<Wolfsburg, isCapitalOf, German>
+<Tashkent, isCapitalOf, Uzbekistan>
+<Gontenschwil, isCapitalOf, Aargau>
+<Metzerlen-Mariastein, isCapitalOf, Switzerland>
+<Berlin, isCapitalOf, Germany>
+<Menzingen, isCapitalOf, Zug>
+<Roman, isCapitalOf, Colchester>
+<Sassari, isCapitalOf, Sardinia>
+<Messina, isCapitalOf, Sicily>
+<Diessenhofen, isCapitalOf, Thurgau>
+<Tenerife, isCapitalOf, Canary Islands>
+<Oeschgen, isCapitalOf, Aargau>
+<Adana, isCapitalOf, Adana>
+<Halten, isCapitalOf, Switzerland>
+<Etziken, isCapitalOf, Switzerland>
+<Galaţi, isCapitalOf, Romania>
+<Apeldoorn, isCapitalOf, Netherlands>
+<Lemgo, isCapitalOf, Lip>
+<N'Djamena, isCapitalOf, Chad>
+<Kuala Lumpur, isCapitalOf, Malaysia>
+<Majuro, isCapitalOf, Marshall Islands>
+<Krakow, isCapitalOf, Poland>
+<Kinshasa, isCapitalOf, Democratic Republic of the Congo>
+<Menziken, isCapitalOf, Aargau>
+<Gangtok, isCapitalOf, Indian>
+<Praia, isCapitalOf, Cape Verde>
+<Buchberg, isCapitalOf, Schaffhausen>
+<Schwaderloch, isCapitalOf, Aargau>
+<Pun, isCapitalOf, Pakistan>
+<Nuuk, isCapitalOf, Greenland>
+<Beijing, isCapitalOf, China>
+<Berlin, isCapitalOf, United States>
+<Mandi Bahauddin, isCapitalOf, Mandi Bahauddin District>
+<Ratodero, isCapitalOf, Ratodero Taluka>
+<Kestenholz, isCapitalOf, Switzerland>
+<Bodio, isCapitalOf, Ticino>
+<Prato, isCapitalOf, Ticino>
+<Bosco Gurin, isCapitalOf, Ticino>
+<Chin, isCapitalOf, Pun>
+<Tegerfelden, isCapitalOf, Aargau>
+<Sisseln, isCapitalOf, Aargau>
+<Wall, isCapitalOf, Aargau>
+<Campo Grande, isCapitalOf, Mato Grosso do Sul>
+<Province, isCapitalOf, Hangu District>
+<Mariehamm, isCapitalOf, Island>
+<Lusaka, isCapitalOf, Zambia>
+<Unterkulm, isCapitalOf, Aargau>
+<Colorado, isCapitalOf, United States>
+<Hemmental, isCapitalOf, Schaffhausen>
+<Pollegio, isCapitalOf, Ticino>
+<Cartagena, isCapitalOf, Region>
+<Saint, isCapitalOf, Saint>
+<Böttstein, isCapitalOf, Aargau>
+<Buochs, isCapitalOf, Nidwalden>
+<Month, isCapitalOf, Valais>
+<Kingdom, isCapitalOf, China>
+<Stepanakert, isCapitalOf, Nagorno-Karabakh>
+<Teufenthal, isCapitalOf, Aargau>
+<Foggia, isCapitalOf, Apulia>
+<Leh, isCapitalOf, Himalaya>
+<Fox, isCapitalOf, Japan>
+<Delémont, isCapitalOf, Switzerland>
+<Port Louis, isCapitalOf, Mauritius>
+<Bärschwil, isCapitalOf, Switzerland>
+<Les Bois, isCapitalOf, Switzerland>
+<Etzgen, isCapitalOf, Aargau>
+<Mir, isCapitalOf, France>
+<Magden, isCapitalOf, Aargau>
+<Epauvillers, isCapitalOf, Switzerland>
+<Bangalore, isCapitalOf, Karnataka>
+<Peninsula, isCapitalOf, Cuba>
+<Gerlafingen, isCapitalOf, Switzerland>
+<Schönholzerswilen, isCapitalOf, Thurgau>
+<Târgovişte, isCapitalOf, County>
+<Denpasar, isCapitalOf, Bali>
+<Cienfuegos, isCapitalOf, Cienfuegos province>
+<Bonn, isCapitalOf, West>
+<Büttenhardt, isCapitalOf, Schaffhausen>
+<Cerentino, isCapitalOf, Ticino>
+<Atum, isCapitalOf, Egypt>
+<Sobrio, isCapitalOf, Ticino>
+<City, isCapitalOf, Samos>
+<Marseille, isCapitalOf, France>
+<Pier, isCapitalOf, South Dakota>
+<Matzendorf, isCapitalOf, Switzerland>
+<Mannheim, isCapitalOf, Germany>
+<Catania, isCapitalOf, Sicily>
+<This, isCapitalOf, Indonesia>
+<Aedermannsdorf, isCapitalOf, Switzerland>
+<Province, isCapitalOf, Karak District>
+<Dallenwil, isCapitalOf, Nidwalden>
+<John, isCapitalOf, Antigua and Barbuda>
+<Rümikon, isCapitalOf, Aargau>
+<Remscheid, isCapitalOf, German>
+<Province, isCapitalOf, Batagram District>
+<Augsburg, isCapitalOf, South>
+<Sierre, isCapitalOf, Sierre>
+<Akkad, isCapitalOf, Iraq>
+<Bratislava, isCapitalOf, Slovakia>
+<Neuheim, isCapitalOf, Zug>
+<Grenchen, isCapitalOf, Switzerland>
+<Pakistan, isCapitalOf, Layyah District>
+<Canopic jar, isCapitalOf, Egypt>
+<Spring, isCapitalOf, Northern Territory>
+<Pun, isCapitalOf, Chakwal District>
+<Province, isCapitalOf, Haripur District>
+<Mellikon, isCapitalOf, Aargau>
+<Muriaux, isCapitalOf, Switzerland>
+<Tskhinvali, isCapitalOf, South Ossetia>
+<Khartoum, isCapitalOf, Sudan>
+<Aeschlen bei Oberdiessbach, isCapitalOf, Switzerland>
+<Andorra la Vella, isCapitalOf, Andorra>
+<Jyväskylä, isCapitalOf, Fin>
+<Royan, isCapitalOf, France>
+<Licchavi, isCapitalOf, Bihar>
+<Offenbach, isCapitalOf, German>
+<Sapporo, isCapitalOf, Hokkaido>
+<Leutwil, isCapitalOf, Aargau>
+<Larissa, isCapitalOf, Greece>
+<Kiel, isCapitalOf, Germany>
+<Leuk, isCapitalOf, Valais>
+<Province, isCapitalOf, Lakki Marwat District>
+<Worcester, isCapitalOf, West>
+<Sembrancher, isCapitalOf, Valais>
+<Sargodha, isCapitalOf, Sargodha District>
+<Goumois, isCapitalOf, Switzerland>
+<Rice, isCapitalOf, China>
+<Niedergösgen, isCapitalOf, Switzerland>
+<Paris, isCapitalOf, France>
+<War of 1812, isCapitalOf, Ham>
+<Meroë, isCapitalOf, Kingdom>
+<Province, isCapitalOf, Mansehra District>
+<Texas, isCapitalOf, United States>
+<Thalwil, isCapitalOf, Switzerland>
+<Conthey, isCapitalOf, Valais>
+<Guwahati, isCapitalOf, India>
+<Lomé, isCapitalOf, Togo>
+<Italy, isCapitalOf, Province of Ascoli Piceno>
+<Wuppenau, isCapitalOf, Thurgau>
+<San Miguel de Tucumán, isCapitalOf, Tucumán Province>
+<Hemishofen, isCapitalOf, Schaffhausen>
+<Dazaifu, isCapitalOf, Japan>
+<Reykjavík, isCapitalOf, Iceland>
+<Shakargarh, isCapitalOf, Shakargarh Tehsil>
+<Nuku'alofa, isCapitalOf, Tonga>
+<Mairengo, isCapitalOf, Ticino>
+<Livadeia, isCapitalOf, Catalonia>
+<Iaşi, isCapitalOf, Romania>
+<Algiers, isCapitalOf, Algeria>
+<Riedholz, isCapitalOf, Switzerland>
+<Antwerp, isCapitalOf, Belgium>
+<Addis Ababa, isCapitalOf, Ethiopia>
+<Calpiogna, isCapitalOf, Ticino>
+<Aetingen, isCapitalOf, Switzerland>
+<Zeihen, isCapitalOf, Aargau>
+<Auckland, isCapitalOf, New Zealand>
+<Mons, isCapitalOf, Belgium>
+<Copenhagen, isCapitalOf, Denmark>
+<Haarlem, isCapitalOf, Netherlands>
+<Valletta, isCapitalOf, Malta>
+<Chester, isCapitalOf, England>
+<Scotland, isCapitalOf, Great Britain>
+<Enschede, isCapitalOf, Netherlands>
+<Emmetten, isCapitalOf, Nidwalden>
+<Rekingen, isCapitalOf, Aargau>
+<Zufikon, isCapitalOf, Aargau>
+<Worm, isCapitalOf, Germany>
+<Dili, isCapitalOf, East Timor>
+<Naters, isCapitalOf, Valais>
+<Rabat, isCapitalOf, Morocco>
+<Month, isCapitalOf, Month>
+<Ireland, isCapitalOf, Ireland>
+<Rimini, isCapitalOf, Emilia-Romagna>
+<Spa, isCapitalOf, San Antonio, Texas>
+<Tlaxcala de Xicoténcatl, isCapitalOf, Tlaxcala>
+<Zwischbergen, isCapitalOf, Valais>
+<Bastia, isCapitalOf, Corsica>
+<Dresden, isCapitalOf, Free>
+<Herznach, isCapitalOf, Aargau>
+<Moers, isCapitalOf, German>
+<Cambridge, isCapitalOf, U.S. state>
+<Bristol, isCapitalOf, United Kingdom>
+<Villmergen, isCapitalOf, Aargau>
+<Bad Zurzach, isCapitalOf, Aargau>
+<Gene, isCapitalOf, Switzerland>
+<Affeltrangen, isCapitalOf, Thurgau>
+<Krefeld, isCapitalOf, German>
+<Islisberg, isCapitalOf, Aargau>
+<Gempen, isCapitalOf, Switzerland>
+<Emperor, isCapitalOf, Germany>
+<Tübingen, isCapitalOf, German>
+<Nunningen, isCapitalOf, Switzerland>
+<Kayseri, isCapitalOf, Turkey>
+<American, isCapitalOf, Triple H>
+<Sarajevo, isCapitalOf, Bosnia and Herzegovina>
+<Papuan languages, isCapitalOf, New Guinea>
+<Büsserach, isCapitalOf, Switzerland>
+<Les Breuleux, isCapitalOf, Switzerland>
+<Baden, isCapitalOf, Aargau>
+<Kilkenny, isCapitalOf, Ireland>
+<Rouen, isCapitalOf, France>
+<Civilization, isCapitalOf, Pakistan>
+<Fisibach, isCapitalOf, Aargau>
+<Wilen, isCapitalOf, Thurgau>
+<Nenzingen, isCapitalOf, Konstanz>
+<Giornico, isCapitalOf, Ticino>
+<Flumenthal, isCapitalOf, Switzerland>
+<City, isCapitalOf, Luxembourg>
+<Muzaffarabad, isCapitalOf, Azad Kashmir>
+<Iaşi, isCapitalOf, Moldavia>
+<Lille, isCapitalOf, France>
+<Vex, isCapitalOf, Valais>
+<Jerusalem, isCapitalOf, Israel>
+<Bar, isCapitalOf, Schaffhausen>
+<Vosges, isCapitalOf, North>
+<Bättwil, isCapitalOf, Switzerland>
+<Zeiningen, isCapitalOf, Aargau>
+<Zwolle, isCapitalOf, Netherlands>
+<Saint, isCapitalOf, U.S. state>
+<Beinwil am See, isCapitalOf, Aargau>
+<Bomb, isCapitalOf, Company>
+<Bellinzona, isCapitalOf, Ticino>
+<Arbon, isCapitalOf, Thurgau>
+<Yamoussoukro, isCapitalOf, Ivory>
+<Jacobabad, isCapitalOf, Jacobabad District>
+<Reims, isCapitalOf, France>
+<Eschlikon, isCapitalOf, Thurgau>
+<Härkingen, isCapitalOf, Switzerland>
+<Athens, isCapitalOf, Greece>
+<Aix-en-Provence, isCapitalOf, France>
+<Sokoto, isCapitalOf, Nigeria>
+<Chimbote, isCapitalOf, Region>
+<Achaea, isCapitalOf, Greece>
+<Saarlouis, isCapitalOf, Saarland>
+<Kaiser, isCapitalOf, Aargau>
+<Malabo, isCapitalOf, Equatorial Guinea>
+<War, isCapitalOf, Okinawa>
+<Islam, isCapitalOf, Iraq>
+<Tabriz, isCapitalOf, Iran>
+<Astana, isCapitalOf, Kazakhstan>
+<Beirut, isCapitalOf, Lebanon>
+<Hyderabad, isCapitalOf, Andhra Pradesh>
+<Wrestling, isCapitalOf, Roddy Piper>
+<Lens, isCapitalOf, Pas-de-Calais>
+<City, isCapitalOf, U.S. state>
+<Mississippi, isCapitalOf, Mississippi>
+<Bangkok, isCapitalOf, Asian>
+<Lilongwe, isCapitalOf, Africa>
+<Schupfart, isCapitalOf, Aargau>
+<Epiquerez, isCapitalOf, Switzerland>
+<Pistoia, isCapitalOf, Tuscany>
+<River, isCapitalOf, Car>
+<Fischbach-Göslikon, isCapitalOf, Aargau>
+<Chironico, isCapitalOf, Ticino>
+<Itanagar, isCapitalOf, Indian>
+<Sacrament, isCapitalOf, U.S. state>
+<Hamm, isCapitalOf, German>
+<Soma, isCapitalOf, India>
+<Civitavecchia, isCapitalOf, Lazio>
+<Sierre, isCapitalOf, Valais>
+<Arles, isCapitalOf, France>
+<Province, isCapitalOf, Dera Ismail Khan District>
+<Tilburg, isCapitalOf, Netherlands>
+<Witten, isCapitalOf, German>
+<Wieluń, isCapitalOf, Poland>
+<Dottikon, isCapitalOf, Aargau>
+<Delft, isCapitalOf, South Holland>
+<Vientiane, isCapitalOf, Laos>
+<Toulon, isCapitalOf, France>
+<American, isCapitalOf, North>
+<Lugano, isCapitalOf, Ticino>
+<Aetigkofen, isCapitalOf, Switzerland>
+<British, isCapitalOf, Division>
+<Visp, isCapitalOf, Valais>
+<Saint, isCapitalOf, Valais>
+<Grindelwald, isCapitalOf, Switzerland>
+<Chinese, isCapitalOf, Republic of China>
+<Simplon, isCapitalOf, Valais>
+<Halle, isCapitalOf, German>
+<Mülheim, isCapitalOf, German>
+<San Marino, isCapitalOf, San Marino>
+<Leeds, isCapitalOf, West Yorkshire>
+<Bell, isCapitalOf, Ontario>
+<Leicester, isCapitalOf, Midlands>
+<Sukhumi, isCapitalOf, Abkhazia>
+<Kriegstetten, isCapitalOf, Switzerland>
+<Rodersdorf, isCapitalOf, Switzerland>
+<Diet, isCapitalOf, Switzerland>
+<Murree, isCapitalOf, Rawalpindi>
+<Mallorca, isCapitalOf, Balearic Islands>
+<Gladiator, isCapitalOf, Rome>
+<Sea, isCapitalOf, U.S. state>
+<Bettwiesen, isCapitalOf, Thurgau>
+<Pforzheim, isCapitalOf, German>
+<Siegen, isCapitalOf, German>
+<Horus, isCapitalOf, Egypt>
+<Oldenburg, isCapitalOf, Germany>
+<Montfavergier, isCapitalOf, Switzerland>
+<River, isCapitalOf, Kauai>
+<Harare, isCapitalOf, Zimbabwe>
+<Forcalquier, isCapitalOf, France>
+<Antananarivo, isCapitalOf, Madagascar>
+<Risch-Rotkreuz, isCapitalOf, Zug>
+<Akrotiri and Dhekelia, isCapitalOf, Cyprus>
+<Paramaribo, isCapitalOf, Suriname>
+<Lage, isCapitalOf, Lip>
+<Pun, isCapitalOf, Attock District>
+<Ennetbürgen, isCapitalOf, Nidwalden>
+<Angers, isCapitalOf, France>
+<Rhône, isCapitalOf, France>
+<Raron, isCapitalOf, Valais>
+<Leeuwarden, isCapitalOf, Netherlands>
+<June, isCapitalOf, U.S. state>
+<Province, isCapitalOf, Swat District>
+<Eindhoven, isCapitalOf, Netherlands>
+<Two, isCapitalOf, August>
+<Sanghar, isCapitalOf, Sindh>
+<Tunis, isCapitalOf, Tunisia>
+<Termen, isCapitalOf, Valais>
+<Manisa, isCapitalOf, Turkey>
+<Gordevio, isCapitalOf, Ticino>
+<Iragna, isCapitalOf, Ticino>
+<Neunkirch, isCapitalOf, Schaffhausen>
+<Wegenstetten, isCapitalOf, Aargau>
+<Schneisingen, isCapitalOf, Aargau>
+<Ried-Brig, isCapitalOf, Valais>
+<Biberist, isCapitalOf, Switzerland>
+<Toul, isCapitalOf, Northeast>
+<Nakhodka, isCapitalOf, Japan>
+<Plymouth, isCapitalOf, Washington>
+<Murten, isCapitalOf, Fribourg>
+<Bhopal, isCapitalOf, Madhya Pradesh>
+<Oberhallau, isCapitalOf, Schaffhausen>
+<Trinity, isCapitalOf, Newfoundland>
+<Anzonico, isCapitalOf, Ticino>
+<Adlikon bei Andelfingen, isCapitalOf, Switzerland>
+<Lommis, isCapitalOf, Thurgau>
+<Jeddah, isCapitalOf, West>
+<Douala, isCapitalOf, Africa>
+<Pterodactylus, isCapitalOf, Germany>
+<Pun, isCapitalOf, Talagang Tehsil>
+<Aeschi bei Spiez, isCapitalOf, Switzerland>
+<Bismarck, isCapitalOf, U.S. state>
+<Odysseus, isCapitalOf, Polyphemos>
+<Dörflingen, isCapitalOf, Schaffhausen>
+<Tallinn, isCapitalOf, Estonia>
+<Siblingen, isCapitalOf, Schaffhausen>
+<Morbio Superiore, isCapitalOf, Ticino>
+<Târgu Jiu, isCapitalOf, Gorj County>
+<Herm, isCapitalOf, Oregon>
+<Lund, isCapitalOf, Sweden>
+<Ennetmoos, isCapitalOf, Nidwalden>
+<Breda, isCapitalOf, Netherlands>
+<Emmental, isCapitalOf, Switzerland>
+<Bissau, isCapitalOf, Guinea-Bissau>
+<Adliswil, isCapitalOf, Switzerland>
+<Libreville, isCapitalOf, Gabon>
+<Province, isCapitalOf, Shangla District>
+<Washington, isCapitalOf, American>
+<Kiel, isCapitalOf, Bun>
+<Manila, isCapitalOf, Philippines>
+<Empire, isCapitalOf, Niger>
+<Schlossrued, isCapitalOf, Aargau>
+<Mount Etna, isCapitalOf, Sicily>
+<Lommiswil, isCapitalOf, Switzerland>
+<Osogna, isCapitalOf, Ticino>
+<Massa, isCapitalOf, Massa>
+<Mönchengladbach, isCapitalOf, Germany>
+<Oberbuchsiten, isCapitalOf, Switzerland>
+<Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch, isCapitalOf, Anglesey>
+<Obermumpf, isCapitalOf, Aargau>
+<Opfertshofen, isCapitalOf, Schaffhausen>
+<Roubaix, isCapitalOf, France>
+<Ouagadougou, isCapitalOf, Burkina Faso>
+<California, isCapitalOf, United States>
+<Moroni, isCapitalOf, Comoros>
+<Birrwil, isCapitalOf, Aargau>
+<August, isCapitalOf, U.S. state>
+<Columbia, isCapitalOf, U.S. state>
+<Tor, isCapitalOf, Ticino>
+<Ska, isCapitalOf, Ska>
+<France, isCapitalOf, France>
+<Göttingen, isCapitalOf, Germany>
+<Koblenz, isCapitalOf, Aargau>
+<Albstadt, isCapitalOf, Baden-Württemberg>
+<San Cristóbal Ecatepec, isCapitalOf, Mexico>
+<Trieste, isCapitalOf, Italy>
+<Dove, isCapitalOf, U.S. state>
+<One, isCapitalOf, China>
+<Obergösgen, isCapitalOf, Switzerland>
+<Reggio Emilia, isCapitalOf, Emilia-Romagna>
+<Dodoma, isCapitalOf, Tanzania>
+<Doha, isCapitalOf, Qatar>
+<City, isCapitalOf, Republic of Ireland>
+<Orléans, isCapitalOf, France>
+<Schöftland, isCapitalOf, Aargau>
+<Cottbus, isCapitalOf, Germany>
+<Oviedo, isCapitalOf, North>
+<Havana, isCapitalOf, Cuba>
+<Aarberg, isCapitalOf, Switzerland>
+<Mumpf, isCapitalOf, Aargau>
+<Riga, isCapitalOf, Europe>
+<Gera, isCapitalOf, Germany>
+<Gächlingen, isCapitalOf, Schaffhausen>
+<City, isCapitalOf, American>
+<Hubersdorf, isCapitalOf, Switzerland>
+<Stirling, isCapitalOf, Scotland>
+<South, isCapitalOf, American>
+<Dhaka, isCapitalOf, Bangladesh>
+<Roskilde, isCapitalOf, Denmark>
+<Kakul, isCapitalOf, Kakul>
+<Ingolstadt, isCapitalOf, German>
+<Dürrenäsch, isCapitalOf, Aargau>
+<North America, isCapitalOf, Nova Scotia>
+<Asmara, isCapitalOf, Eritrea>
+<Brisbane, isCapitalOf, Queensland>
+<Montauban, isCapitalOf, France>
+<Amsoldingen, isCapitalOf, Switzerland>
+<Nancy, isCapitalOf, France>
+<Trutnov, isCapitalOf, Region>
+<Toulouse, isCapitalOf, France>
+<Porto-Novo, isCapitalOf, West>
+<Balsthal, isCapitalOf, Switzerland>
+<Klingnau, isCapitalOf, Aargau>
+<Çanakkale, isCapitalOf, Turkey>
+<War, isCapitalOf, United States>
+<Unterendingen, isCapitalOf, Aargau>
+<Chessel, isCapitalOf, Vaud>
+<Locarno, isCapitalOf, Locarno>
+<Vitré, isCapitalOf, East>
+<Can Tho, isCapitalOf, Vietnam>
+<Romance, isCapitalOf, Corsica>
+<Uezwil, isCapitalOf, Aargau>
+<This, isCapitalOf, Vaud>
+<Man, isCapitalOf, Egypt>
+<Visp, isCapitalOf, Visp>
+<Oslo, isCapitalOf, Norway>
+<Bucharest, isCapitalOf, Romania>
+<Faya-Largeau, isCapitalOf, Chad>
+<La Chaux-des-Breuleux, isCapitalOf, Switzerland>
+<Raja, isCapitalOf, Indian>
+<Truro, isCapitalOf, Cornwall>
+<Valence-sur-Baïse, isCapitalOf, Gers>
+<Bujumbura, isCapitalOf, Burundi>
+<Holziken, isCapitalOf, Aargau>
+<Fürth, isCapitalOf, German>
+<Nîmes, isCapitalOf, France>
+<Chennai, isCapitalOf, Indian>
+<Mem, isCapitalOf, Tennessee>
+<Wislikofen, isCapitalOf, Aargau>
+<Löhningen, isCapitalOf, Schaffhausen>
+<Bhiria, isCapitalOf, Naushahro Feroze District>
+<Cordoba, isCapitalOf, Cordoba>
+<Layyah, isCapitalOf, Pun>
+<Sarnen, isCapitalOf, Obwalden>
+<This, isCapitalOf, Alberta>
+<Unterlunkhofen, isCapitalOf, Aargau>
+<Bishkek, isCapitalOf, Kyrgyzstan>
+<Hallau, isCapitalOf, Schaffhausen>
+<Rostock, isCapitalOf, Germany>
+<Bari, isCapitalOf, Bari>
+<Meltingen, isCapitalOf, Switzerland>
+<Lisbon, isCapitalOf, Portugal>
+<Tirana, isCapitalOf, Republic>
+<Newport, isCapitalOf, Wales>
+<Chang'an, isCapitalOf, China>
+<Caracas, isCapitalOf, Venezuela>
+<This, isCapitalOf, Japan>
+<Erfurt, isCapitalOf, Thuringia>
+<Monza, isCapitalOf, Lombardy>
+<Bremen, isCapitalOf, Germany>
+<Berikon, isCapitalOf, Aargau>
+<Porrentruy, isCapitalOf, Switzerland>
+<Lavizzara, isCapitalOf, Ticino>
+<Stockholm, isCapitalOf, Sweden>
+<Albertville, isCapitalOf, Marsh>
+<City, isCapitalOf, Washington>
+<Vilnius, isCapitalOf, Lithuania>
+<Rasht, isCapitalOf, Iran>
+<Saignelégier, isCapitalOf, Switzerland>
+<Egerkingen, isCapitalOf, Switzerland>
+<Illinois, isCapitalOf, Illinois>
+<Kobe, isCapitalOf, West>
+<Forlì, isCapitalOf, Emilia-Romagna>
+<Semione, isCapitalOf, Ticino>
+<Gansingen, isCapitalOf, Aargau>
+<São Tomé, isCapitalOf, São Tomé and Príncipe>
+<Fehren, isCapitalOf, Switzerland>
+<Schwieberdingen, isCapitalOf, Baden-Württemberg>
+<Lübeck, isCapitalOf, North>
+<German, isCapitalOf, Fürth>
+<Biasca, isCapitalOf, Ticino>
+<Zhang Fei, isCapitalOf, China>
+<Kampala, isCapitalOf, Uganda>
+<Oaxaca de Juárez, isCapitalOf, Oaxaca>
+<Monrovia, isCapitalOf, Liberia>
+<Tours, isCapitalOf, France>
+<Olivone, isCapitalOf, Ticino>
+<Niamey, isCapitalOf, Africa>
+<Reading, isCapitalOf, American>
+<Preston, isCapitalOf, England>
+<Oekingen, isCapitalOf, Switzerland>
+<Kojiki, isCapitalOf, Japan>
+<Corte, isCapitalOf, Corsica>
+<Lie, isCapitalOf, Aargau>
+<Airolo, isCapitalOf, Ticino>
+<Pet, isCapitalOf, Russia>
+<Accra, isCapitalOf, Ghana>
+<Prince, isCapitalOf, Haiti>
+<Bath, isCapitalOf, Somerset>
+<Chania, isCapitalOf, Chania>
+<Obergerlafingen, isCapitalOf, Switzerland>
+<Oberägeri, isCapitalOf, Zug>
+<Hagen, isCapitalOf, Arnsberg Government Region>
+<Grenoble, isCapitalOf, France>
+<Meadow, isCapitalOf, Newfoundland>
+<Erschwil, isCapitalOf, Switzerland>
+<Aigle, isCapitalOf, Vaud>
+<Man, isCapitalOf, China>
+<Unkel, isCapitalOf, Neuwied>
+<Empire, isCapitalOf, Governor>
+<Carlisle, isCapitalOf, England>
+<Lviv, isCapitalOf, Lviv>
+<Aarwangen, isCapitalOf, Switzerland>
+<Gifhorn, isCapitalOf, German>
+<Sari, isCapitalOf, Mazandaran>
+<Deitingen, isCapitalOf, Switzerland>
+<Sydney, isCapitalOf, New South Wales>
+<Schleitheim, isCapitalOf, Schaffhausen>
+<City, isCapitalOf, Vietnam>
+<Olympia, isCapitalOf, Washington>
+<Lagos, isCapitalOf, Nigeria>
+<Podgorica, isCapitalOf, Montenegro>
+<Timişoara, isCapitalOf, Ban>
+<Romania, isCapitalOf, Botoşani County>
+<Aberdeen, isCapitalOf, American>
+<Beach, isCapitalOf, Togo>
+<Iquitos, isCapitalOf, Loreto Region>
+<Dublin, isCapitalOf, Ireland>
+<Karlsruhe, isCapitalOf, Germany>
+<Speyer, isCapitalOf, Rhineland-Palatinate>
+<Zofingen, isCapitalOf, Aargau>
+<Locarno, isCapitalOf, Ticino>
+<Mendoza, isCapitalOf, Mendoza Province>
+<Bremerhaven, isCapitalOf, Germany>
+<Möhlin, isCapitalOf, Aargau>
+<Kleinlützel, isCapitalOf, Switzerland>
+<Bex, isCapitalOf, Vaud>
+<Albligen, isCapitalOf, Switzerland>
+<Neuhausen am Rheinfall, isCapitalOf, Schaffhausen>
+<Christchurch, isCapitalOf, South>
+<Suva, isCapitalOf, Fiji>
+<Carthage, isCapitalOf, Tunisia>
+<Carthage, isCapitalOf, North Africa>
+<Lucca, isCapitalOf, Tuscany>
+<Hof, isCapitalOf, Schaffhausen>
+<Bath, isCapitalOf, New South Wales>
+<Dachau, isCapitalOf, Germany>
+<Tayasal, isCapitalOf, May>
+<Personico, isCapitalOf, Ticino>
+<Guntmadingen, isCapitalOf, Schaffhausen>
+<Gipf-Oberfrick, isCapitalOf, Aargau>
+<Pun, isCapitalOf, Bahawalpur District>
+<City, isCapitalOf, Junagadh & Manavadar>
+<Kiev, isCapitalOf, Ukraine>
+<Pun, isCapitalOf, Bahawalnagar District>
+<Bolken, isCapitalOf, Switzerland>
+<Braunschweig, isCapitalOf, Germany>
+<Mümliswil-Ramiswil, isCapitalOf, Switzerland>
+<Elblag, isCapitalOf, Poland>
+<Wellington, isCapitalOf, New Zealand>
+<Gaborone, isCapitalOf, Botswana>
+<Leiden, isCapitalOf, Netherlands>
+<Anzère, isCapitalOf, Valais>
+<City of Halifax, isCapitalOf, Nova Scotia>
+<Southampton, isCapitalOf, United Kingdom>
+<Le Peuchapatte, isCapitalOf, Switzerland>
+<Aigues-Mortes, isCapitalOf, France>
+<Paderborn, isCapitalOf, Germany>
+<Jay, isCapitalOf, New Guinea>
+<Nijmegen, isCapitalOf, Netherlands>
+<Frauenfeld, isCapitalOf, Thurgau>
+<Venlo, isCapitalOf, Netherlands>
+<Ranchi, isCapitalOf, Jharkhand>
+<Freetown, isCapitalOf, Africa>
+<Alchenstorf, isCapitalOf, Switzerland>
+<Trento, isCapitalOf, U.S. state>
+<Province, isCapitalOf, Nowshera District>
+<Sun, isCapitalOf, Washington>
+<Dakar, isCapitalOf, Senegal>
+<Urban, isCapitalOf, U.S. state>
+<Osco, isCapitalOf, Ticino>
+<Valdivia, isCapitalOf, Region>
+<Hiroshima, isCapitalOf, Hiroshima>
+<Jerusalem, isCapitalOf, Kingdom>
+<Belgrade, isCapitalOf, Serbia>
+<Olten, isCapitalOf, Olten>
+<Amman, isCapitalOf, Switzerland>
+<Bat, isCapitalOf, U.S. state>
+<Hatay, isCapitalOf, Turkey>
+<Winchester, isCapitalOf, Hampshire>
+<Spring, isCapitalOf, U.S. state>
+<Bydgoszcz, isCapitalOf, Poland>
+<Dordrecht, isCapitalOf, Netherlands>
+<Rudolfstetten-Friedlisberg, isCapitalOf, Aargau>
+<Amersfoort, isCapitalOf, Netherlands>
+<Siglistorf, isCapitalOf, Aargau>
+<Aarau, isCapitalOf, Aargau>
+<Arnhem, isCapitalOf, Netherlands>
+<Yak, isCapitalOf, Washington>
+<Ciudad Juárez, isCapitalOf, Chihuahua>
+<Beringen, isCapitalOf, Schaffhausen>
+<Sirnach, isCapitalOf, Thurgau>
+<Female ejaculation, isCapitalOf, Aristotle>
+<Zaragoza, isCapitalOf, Aragon>
+<Province, isCapitalOf, Chitral District>
+<Matiari, isCapitalOf, District>
+<Province, isCapitalOf, Bannu District>
+<Helen, isCapitalOf, U.S. state>
+<Lajoux, isCapitalOf, Switzerland>
+<Le Bémont, isCapitalOf, Switzerland>
+<Großenhain, isCapitalOf, Riesa-Großenhain Rural District>
+<Full-Reuenthal, isCapitalOf, Aargau>
+<Zuzgen, isCapitalOf, Aargau>
+<Rüdlingen, isCapitalOf, Schaffhausen>
+<May, isCapitalOf, Plymouth, Massachusetts>
+<Olbia, isCapitalOf, Sardinia>
+<Zetzwil, isCapitalOf, Aargau>
+<Ell, isCapitalOf, Washington>
+<Province, isCapitalOf, Tank District>
+<Günsberg, isCapitalOf, Switzerland>
+<And did those feet in ancient time, isCapitalOf, William Blake>
+<Maseru, isCapitalOf, Lesotho>
+<Union, isCapitalOf, Washington>
+<Alaska, isCapitalOf, Alaska>
+<Saint-Brais, isCapitalOf, Switzerland>
+<Quito, isCapitalOf, Ecuador>
+<Chennai, isCapitalOf, India>
+<Helsinki, isCapitalOf, Finland>
+<Dalpe, isCapitalOf, Ticino>
+<Siena, isCapitalOf, Tuscany>
+<Laupersdorf, isCapitalOf, Switzerland>
+<Mendrisio, isCapitalOf, Ticino>
+<Hägglingen, isCapitalOf, Aargau>
+<Jacobabad, isCapitalOf, District>
+<Adelboden, isCapitalOf, Switzerland>
+<Oensingen, isCapitalOf, Switzerland>
+<Cavagnago, isCapitalOf, Ticino>
+<Magdeburg, isCapitalOf, Saxony-Anhalt>
+<Widen, isCapitalOf, Aargau>
+<Wells, isCapitalOf, Somerset>
+<Ueken, isCapitalOf, Aargau>
+<Maputo, isCapitalOf, Mozambique>
+<Greek language, isCapitalOf, Lesbos>
+<Vaduz, isCapitalOf, Liechtenstein>
+<Kentucky, isCapitalOf, Kentucky>
+<Europe, isCapitalOf, U.S. state>
+<Birgisch, isCapitalOf, Valais>
+<Aswan, isCapitalOf, Egypt>
+<Rome, isCapitalOf, Italy>
+<Manama, isCapitalOf, Bahrain>
+<Moscow, isCapitalOf, Russian Orthodox Church>
+<Ludiano, isCapitalOf, Ticino>
+<Ancona, isCapitalOf, Ancona>
+<Olten, isCapitalOf, Switzerland>
+<Jena, isCapitalOf, Germany>
+<Wängi, isCapitalOf, Thurgau>
+<Böbikon, isCapitalOf, Aargau>
+<Leuggern, isCapitalOf, Aargau>
+<Canberra, isCapitalOf, Australia>
+<Walchwil, isCapitalOf, Zug>
+<Kathmandu, isCapitalOf, Nepal>
+<Park, isCapitalOf, U.S. state>
+<Nyon, isCapitalOf, Vaud>
+<Basel, isCapitalOf, North>
+<Almere, isCapitalOf, Netherlands>
+<Evolène, isCapitalOf, Valais>
+<Roseau, isCapitalOf, Caribbean>
+<Lenzburg, isCapitalOf, Aargau>
+<Mamoudzou, isCapitalOf, Mayotte>
+<Zwickau, isCapitalOf, German>
+<Aefligen, isCapitalOf, Switzerland>
+<Bichelsee-Balterswil, isCapitalOf, Thurgau>
+<Milan, isCapitalOf, Milan>
+<Thayngen, isCapitalOf, Schaffhausen>
+<Aigle, isCapitalOf, Aigle>
+<York, isCapitalOf, U.S. state>

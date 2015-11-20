@@ -1,0 +1,20 @@
+OK <April, type, month>
+OK <August, type, month>
+OK <Islam, type, religion>
+OK <Argentina, type, country>
+OK <Austria, type, state>
+OK <Communism, type, idea>
+OK <English, type, language>
+OK <China, type, birth place>
+OK <Coventry Cathedral, type, church building>
+OK <Cheese, type, food>
+OK <Dutton Speedwords, type, language>
+OK <Denmark, type, place>
+OK <Sun Earth, type, planet>
+OK <Egypt, type, country>
+OK <February, type, month>
+OK <France, type, member>
+NO <Finland, type, bear>
+OK <Internet, type, network>
+OK <Italy, type, republic>
+OK <India, type, country>

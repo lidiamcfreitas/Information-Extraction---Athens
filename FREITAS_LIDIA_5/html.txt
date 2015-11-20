@@ -1,0 +1,32 @@
+http://lidia.work/informationextraction.html -> html code under Restaurant
+
+@prefix ns1: <http://schema.org/> .
+@prefix ns2: <http://www.w3.org/ns/rdfa#> .
+
+<http://lidia.work/informationextraction.html> ns2:usesVocabulary ns1: .
+
+[] a ns1:FoodEstablishment;
+    ns1:acceptsReservations "Yes"@en;
+    ns1:address [ a ns1:PostalAddress;
+            ns1:addressCountry "Portugal"@en;
+            ns1:addressLocality "Almada"@en;
+            ns1:addressRegion "Alentejo"@en;
+            ns1:postalCode "2805-313"@en;
+            ns1:streetAddress "Rua Abel Salazar n9 - 9A"@en ];
+    ns1:aggregateRating [ a ns1:AggregateRating;
+            ns1:ratingValue "5"@en ];
+    ns1:award "2nd best Japanese restaurant outside Japan"@en;
+    ns1:hasMap <https://goo.gl/KBd66K>;
+    ns1:menu <https://goo.gl/jCtaHu>;
+    ns1:name "Sushic"@en;
+    ns1:openingHours "Mo-Su 12:00-15:00"@en,
+        "Mo-Su 19:30-23:00"@en;
+    ns1:paymentAccepted "Cash, credit card"@en;
+    ns1:priceRange "$$$"@en;
+    ns1:servesCuisine """
+            Japanese
+          """@en;
+    ns1:telephone "+351 211 911 965"@en;
+    ns1:url <http://www.sushic.pt/> .
+
+

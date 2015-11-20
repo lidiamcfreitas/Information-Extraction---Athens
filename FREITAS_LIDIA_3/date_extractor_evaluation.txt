@@ -1,0 +1,26 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 OK <August, hasDate, 735 BC>\
+OK <Art, hasDate, 1800s>\
+OK <Autonomous communities of Spain, hasDate, 1978>\
+OK <Alan Turing, hasDate, 1912-6-23>\
+OK <Alanis Morissette, hasDate, 1974-6-1>\
+OK <Adobe Illustrator, hasDate, 1986>\
+OK <Farming, hasDate, 2002>\
+OK <Australia, hasDate, 1850s>\
+OK <Aquaculture, hasDate, 1879>\
+OK <Apple, hasDate, 1900s>\
+OK <Abrahamic religion, hasDate, 3rd century>\
+OK <Algebra, hasDate, 9th century>\
+OK <Atom, hasDate, 19th century>\
+OK <Astronomy, hasDate, 20th century>\
+OK <Architecture, hasDate, 2000 years ago>\
+OK <Asteroid, hasDate, 1600s>\
+OK <Afghanistan, hasDate, 1747>\
+OK <Argentina, hasDate, 1480>\
+OK <Austria, hasDate, 1995>\
+OK <Armenia, hasDate, 1991>}
